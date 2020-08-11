@@ -1,5 +1,6 @@
 <h2 align="center">
-  <img src = "./images/spidertocat.png" width ="80px" height="100px">
+  <img src = "images/spidertocat.png" width ="140px"><br />
+  CODEHTML
 </h2>
 
 [![CODEHTML's github stars](https://github-readme-stats.vercel.app/api?username=nieyafei&show_icons=true&theme=dark)](https://github.com/nieyafei)
