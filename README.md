@@ -1,7 +1,7 @@
-### Hi Baby 👋
 <h2 align="center">
-  <img src = "https://github.com/nieyafei/nieyafei/images/spidertocat.png" width ="80px" height="100px">
+  <img src = "./images/spidertocat.png" width ="80px" height="100px">
 </h2>
+
 [![CODEHTML's github stars](https://github-readme-stats.vercel.app/api?username=nieyafei&show_icons=true&theme=dark)](https://github.com/nieyafei)
 
 <!--
