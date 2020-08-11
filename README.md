@@ -1,6 +1,6 @@
 ### Hi Baby 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nieyafei)](https://github.com/nieyafei)
+[![CODEHTML's github stars](https://github-readme-stats.vercel.app/api?username=nieyafei&show_icons=true&theme=dark)](https://github.com/nieyafei)
 
 <!--
 **nieyafei/nieyafei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
